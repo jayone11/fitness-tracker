@@ -6,4 +6,4 @@
 - JavaScript
 - MongoDB
 - Express
-![](screenshot-1.png)
+- ![](screenshot-1.png)
